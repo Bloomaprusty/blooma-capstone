@@ -81,7 +81,7 @@ It allows the user to perform Linux-like file operations programmatically using 
 ### 🔧 **Step 1: Compile**
 Open your Linux terminal and run:
 ```bash
-g++ -o file_explorer main.cpp
+g++ blooma1.cpp -o explorer
 ````
 
 ### ▶️ **Step 2: Execute**
@@ -89,7 +89,7 @@ g++ -o file_explorer main.cpp
 Run the program:
 
 ```bash
-./file_explorer
+./explorer
 ```
 
 ### 💬 **Step 3: Use Commands**
